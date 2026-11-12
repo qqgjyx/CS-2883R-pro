@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Experiment artifacts: large, regenerable, and this repo lives in OneDrive
+data/
+outputs/
+checkpoints/
+runs/
+wandb/
+lightning_logs/
